@@ -1,0 +1,5 @@
+KNIME
+
+1) Qui à le plus d'accidents entre les hommes et les femmes ?
+
+2) Qui à le plus d'accidents mortel ?

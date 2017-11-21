@@ -33,8 +33,6 @@ import decimal
 from decimal import Decimal
 import pandas as pd
 import numpy as np
-import sys
-
 # If a package is not working, run 'pip install name_of_the_package' in your terminal
 #-------------------------------------------------------------------
 #-------------------------------------------------------------------
@@ -269,7 +267,7 @@ merged_data = pd.merge(merged_data ,data_caracteristiques, on = 'Num_Acc', how =
 
 merged_data = merged_data.drop_duplicates()
 
-### On change la valeur pour gravité (pour avoir de meilleurs résultats) DEBILEEEEE
+
 
 
 

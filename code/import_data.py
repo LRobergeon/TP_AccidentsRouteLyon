@@ -56,6 +56,7 @@ VARIABLES :
 """
 ### IMPORT
 path_import = '/Users/ppx/Desktop/M2 DS/projet_lolo_paulo/data/'
+path_import = 'C:/Users/Loic/Documents/TP_AccidentsRouteLyon/data/'
 data_caracteristiques_file = 'caracteristiques_2016.csv'
 data_lieux_file = 'lieux_2016.csv'
 data_usagers_file = 'usagers_2016.csv'
@@ -65,6 +66,7 @@ data_vehicules_file = 'vehicules_2016.csv'
 
 ### EXPORT
 path_export = '/Users/ppx/Desktop/M2 DS/projet_lolo_paulo/result/'
+path_export = 'C:/Users/Loic/Documents/TP_AccidentsRouteLyon/data/'
 result_file = 'the_result_file.csv'
 
 ### PONCTUAL 
